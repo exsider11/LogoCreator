@@ -1,0 +1,9 @@
+<svg viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+    <style>
+    polygon {
+      fill: green;
+    }
+    </style>
+    <polygon points="0,0 100,0 100,50 0,50" />
+    <text x="5" y="30" textLength="89" lengthAdjust="spacing" style="fill: black">it works!</text>
+    </svg>
